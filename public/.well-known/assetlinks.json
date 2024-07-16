@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hipicon",
+      "sha256_cert_fingerprints": [
+        "6A:1A:83:F5:E9:AF:7A:C3:75:AF:D8:B2:4B:7A:B4:0A:87:AF:6F:33:46:BF:73:EC:8D:A1:35:45:0E:8C:BD:54",
+        "92:EE:01:FC:9B:CA:EC:A8:F8:31:29:F0:4B:BA:09:C2:2E:83:2A:96:CC:B1:4C:FC:58:83:44:AF:2E:33:2B:0D"
+      ]
+    }
+  }
+]

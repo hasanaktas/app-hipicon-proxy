@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "B86H47KL53.com.hipicon.app",
+        "paths": [
+                  "NOT /basket",
+                  "NOT /basket/*",
+                  "NOT /continue-shopping",
+                  "NOT /continue-shopping/*",
+                  "NOT /payment",
+                  "NOT /payment/*",
+                  "NOT /checkout",
+                  "NOT /checkout/*",
+                  "NOT /profile/change-password",
+                  "NOT /profile/change-password/*",
+                  "NOT /profile/orders/order-review/*",
+                  "*"
+                ]
+      }
+    ]
+  }
+}
